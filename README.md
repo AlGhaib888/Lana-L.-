@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Lana! <br/><a href="https://github.com/joshmadakor1">Software Test Engineer </a>, <a href="https://www.linkedin.com/in/joshmadakor/">QA Automation Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Trader</a></h1>
 
-<h2>👨‍💻 Cypress Automation:</h2>
+<h2>👨‍💻 Quality Engineering Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
