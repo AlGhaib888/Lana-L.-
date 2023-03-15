@@ -18,7 +18,9 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Bug Reports</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>SQL</b>
+- <b>SQL Querries </b>
+- <b>Postman Collections </b>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
