@@ -21,7 +21,7 @@
 - <b>SQL Querries </b>
 - <b>Postman Collections </b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvitlanaL&show_icons=true&theme=radical)
 
 
 
