@@ -1,6 +1,10 @@
 
 <h1>Hi, I'm Lana! <br/><a href="https://github.com/joshmadakor1">Software Test Engineer </a>, <a href="https://www.linkedin.com/in/joshmadakor/">QA Automation Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Trader</a></h1>
 
+Welcome to my GitHub profile! 
+
+Here I share my automated tests and other useful things 🚀
+
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
 - <b>Cypress Automation</b>
