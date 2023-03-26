@@ -5,6 +5,10 @@ Welcome to my GitHub profile!
 
 Here I share my automated tests and other useful things 🚀
 
+✨ About Me
+
+I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
+
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
 - <b>Cypress Automation</b>
