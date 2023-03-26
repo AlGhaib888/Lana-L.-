@@ -9,6 +9,17 @@ Here I share my automated tests and other useful things 🚀
 
 I am an experienced Software QA Engineer with strong test automation skills. Worked with various test automation tools.
 
+  
+👨‍💼  5+ years Test Automation experience
+👨🏼‍💻  Tech Geek, always ready to learn new Technologies/Frameworks/Languages
+🔭  I’m currently working on new collection of automated tests
+🌱  I’m currently learning and practicing TypeScript
+🗂️ Some of my test collections are available in Lana's repositories
+💬  Ask me about anything related to QA Automation
+🏠  Live in Los Angeles. CA
+📫  How to reach me: 
+
+
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
 - <b>Cypress Automation</b>
