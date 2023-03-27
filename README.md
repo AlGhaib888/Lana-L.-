@@ -1,4 +1,14 @@
 
+
+
+ <div id="header">
+
+   ### Hi there 👋  I'm QA Engineer
+   ### Hi there 👋 I'm QA Manual & Automation Engineer
+
+   <div id="header">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
 <h1>Hi, I'm Lana! <br/><a href="https://github.com/joshmadakor1">Software Test Engineer </a>, <a href="https://www.linkedin.com/in/joshmadakor/">QA Automation Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Trader</a></h1>
 
 Welcome to my GitHub profile! 
